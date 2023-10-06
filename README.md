@@ -1,4 +1,4 @@
-# Time_Series_Forecasting of weather data using LSTM
+# Time Series Forecasting of weather data using LSTM
 This project uses LSTM models to forecast time series data, initially focusing on temperature and later including pressure. This project demonstrates my advanced data analysis skills, multivariate forecasting expertise, and adaptability in handling evolving project requirements.
 
 ## Executive Summary
